@@ -10,8 +10,8 @@ import tensorflow as tf
 from glob import glob
 from urllib.request import urlretrieve
 
-import sys
-sys.path.append('/Users/luiscunha/anaconda/envs/CarND-TensorFlow-Lab/lib/python3.5/site-packages')
+#import sys
+#sys.path.append('/Users/luiscunha/anaconda/envs/CarND-TensorFlow-Lab/lib/python3.5/site-packages')
 from tqdm import tqdm
 
 
